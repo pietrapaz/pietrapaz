@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📌 Interested in Data Science
-- 🌱 Currently learning C#
+- 🌱 Currently learning C
 - 🏳‍🌈 Pronouns: she/her
 - 🎏 Into music, playing games and learn about new cultures
 - 🌐 Languages: 

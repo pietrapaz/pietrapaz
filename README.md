@@ -2,7 +2,6 @@
 
 - 📌 Interested in Data Science
 - 🌱 Currently learning mysql
-- 🏳‍🌈 Pronouns: she/her
 - 🎏 Into music, playing games and learn about new cultures
 - 🌐 Languages: 
 <br> :brazil: Portuguese (native)

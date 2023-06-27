@@ -3,10 +3,7 @@
 - 📌 Interested in Data Science
 - 🌱 Currently learning mysql
 - 🎏 Into music, playing games and learn about new cultures
-- 🌐 Languages: 
-<br> :brazil: Portuguese (native)
-<br> :us: English (Intermediate B2)
-<br> :kr: Korean (Beginner A1) 
+- 🌐 :brazil: :us: :kr:
 
 ##
 

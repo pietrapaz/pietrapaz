@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 📌 Interested in Data Science
-- 🌱 Currently learning mysql
-- 🎏 Into music, playing games and learn about new cultures
+- 📌 Interested in Data
+<!--> - 🌱 Currently studying math
 - 🌐 :brazil: :us: :kr:
 
 ##

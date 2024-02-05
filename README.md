@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📌 Interested in Data
-<!--> - 🌱 Currently studying math
+ <!--- 🌱 Currently studying math -->
 - 🌐 :brazil: :us: :kr:
 
 ##

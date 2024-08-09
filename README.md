@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pietra</h1>
-<h3 align="center">A data enthusiastic student from Brazil</h3>
+<h3 align="center"> a data enthusiastic student from Brazil </h3>
 
 <div align="center">    
 
   🌐 :brazil: :us: :kr:
 
-  🌱 Currently studying <img align="center" alt="python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="r" heigh="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> and powerbi
+  🌱 currently studying <img align="center" alt="python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="r" heigh="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
 
-  📌 Interested in Data
+  📌 interested in Data
 
-  🤔 I’m looking for help with data structures
-
-  👯 I’m looking to collaborate on data projects
+  👯 looking for help with data structures and to collaborate on data projects 🤔
 
 </div>
 
@@ -24,11 +22,9 @@
 </div>
 
 <div align="center"><br>
-  <h2> 💻 Languages and Tools </h2>
+  <h3> languages and tools </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="outline: none;"> 
     <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer" style="outline: none;">
-    <img align="center" alt="r" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></a>
   <a href="https://www.java.com/pt-BR" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer" style="outline: none;">
@@ -49,8 +45,16 @@
     <img align="center" alt="sqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 </div>
 
+<div align="center">
+  <h3> learning </h3>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="r" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer" style="outline: none;"> 
+  <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"></a>
+</div>
+
 <div align="center"> 
-  <h2> 👤 Social </h2>
+  <h3> social </h3>
   <a href="https://www.linkedin.com/in/pietrapaz/" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="youtube" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> 
   <a href="https://instagram.com/pietra_paz" target="_blank" rel="noreferrer" style="outline: none;">

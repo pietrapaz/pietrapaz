@@ -1,93 +1,69 @@
 <h1 align="center">Hi 👋, I'm Pietra</h1>
 <h3 align="center">A data enthusiastic student from Brazil</h3>
 
-- 📌 Interested in Data
-- 🌱 Currently studying <img align="center" alt="python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="r" heigh="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> and powerbi
-- 🌐 :brazil: :us: :kr:
+<div align="center">    
 
-##
+  🌐 :brazil: :us: :kr:
 
-<!-- 👯 I’m looking to collaborate on ... -->
-<!-- 🤔 I’m looking for help with ... -->
-<!-- 💬 Ask me about ... -->
+  🌱 Currently studying <img align="center" alt="python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="r" heigh="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> and powerbi
+
+  📌 Interested in Data
+
+  🤔 I’m looking for help with data structures
+
+  👯 I’m looking to collaborate on data projects
+
+</div>
 
 <div align="center">
-  <a href="https://github.com/pietrapaz">
-    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrapaz&layout=compact&langs_count=7&theme=highcontrast"/>
-  <p> <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> </p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrapaz&" alt="pietrapaz" /></p>
+  
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrapaz&layout=pie&langs_count=8&theme=highcontrast&size_weight=0.5&count_weight=0.5"/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pietrapaz&theme=highcontrast"></p>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrapaz&theme=highcontrast" />
 </div>
 
-
-
-<div align="center" style="display: inline_block" rel="noreferrer" style="outline: none;"><br>
+<div align="center"><br>
   <h2> 💻 Languages and Tools </h2>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="outline: none;"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> </a>
+    <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer" style="outline: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" height="30" width="40"/></a>
-  <a href="https://www.java.com/pt-BR" target="blank" rel="noreferrer" style="outline: none;"> 
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </a>  
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="outline: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="30" width="40" /></a>
+    <img align="center" alt="r" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></a>
+  <a href="https://www.java.com/pt-BR" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+  <a href="https://www.learn-c.org" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="outline: none;"> 
-    <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+    <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="outline: none;"> 
+    <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="outline: none;"> 
+    <img align="center" alt="sqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 </div>
-
-
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="outline: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="30" width="40" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center"> 
   <h2> 👤 Social </h2>
-  <a href="https://www.linkedin.com/in/pietrapaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/pietra_paz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCHekKezp7pYrn5FIfoUWOXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pietrapaz/" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="youtube" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> 
+  <a href="https://instagram.com/pietra_paz" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="instagram" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
+  <a href="https://www.youtube.com/channel/UCHekKezp7pYrn5FIfoUWOXg" target="_blank" rel="noreferrer" style="outline: none;">
+    <img align="center" alt="youtube" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>
 </div>
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pietrapaz&label=Profile%20views&color=0e75b6&style=flat" alt="pietrapaz" /> </p> -->
+##
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pietrapaz" alt="pietrapaz" /></a> </p>
 
-
-
-<h3 align="center">Connect with me:</h3>
+<!--- <h3 align="center">Connect with me:</h3> 
 <p align="center">
 <a href="https://twitter.com/howanji" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="howanji" height="30" width="40" /></a>
@@ -104,29 +80,3 @@
 <a href="https://www.hackerrank.com/hackerrank" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="outline: 1px solid transparent;">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40" />
-</a>

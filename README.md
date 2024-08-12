@@ -84,3 +84,5 @@
 <a href="https://www.hackerrank.com/hackerrank" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
+
+hobbies: linguistica, estatistica, matematica, voluntariado em eventos, idiomas, dança, pintura, jogos de tabuleiro, videogame, series/filmes, sair com os amigos, gatos, astrologia, tarot, sudoku, tetris, paciencia

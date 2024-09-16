@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pietra</h1>
-<h3 align="center"> a data enthusiastic student from Brazil </h3>
 
 <div align="center">    
 
   🌐 :brazil: :us: :kr:
 
-  🌱 currently studying <img align="center" alt="python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="r" heigh="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
-
   📌 interested in Data
-
-  👯 looking for help with data structures and to collaborate on data projects 🤔
 
 </div>
 

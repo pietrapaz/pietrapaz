@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">
-  
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrapaz&layout=pie&langs_count=8&theme=highcontrast&size_weight=0.5&count_weight=0.5"/>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pietrapaz&theme=highcontrast"></p>
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>

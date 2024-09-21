@@ -27,7 +27,7 @@ pietra <- list(
                "Left Engineering"),
     my2024 = c("Data Science student @UniCEUB",
                "Intership @WYNK and @SENAI",
-               "Volunteer at Festival do Japao, K-Festival, Anime Summit and counting...")
+               "Volunteer @Festival do Japao, @K-Festival, @Anime Summit and counting...")
   ),
   more = list(
     hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames",

@@ -13,7 +13,7 @@ library("Pietra")
 print("Passionate about DATA and STATS")
 print("Learning Korean and Russian")
 
-pietra <- list(
+myself <- list(
   languages = c("SQL", "Java", "JavaScript", "C", "C#"),
   learning = c("R", "Python", "Power BI", "ETL"),
   trajetory = list(

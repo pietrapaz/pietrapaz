@@ -30,8 +30,10 @@ pietra <- list(
                "Volunteer at Festival do Japao, K-Festival, Anime Summit and counting...")
   ),
   more = list(
-    hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames", "Volunteering in Cultural Events"),
-    loves = c("Cats", "Learn Korean", "Hip-Hop, EDM and Metalcore", "Prison Break", "Fallout4", "Tetris", "Events", "Astrology"),
+    hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames",
+                "Volunteering in Cultural Events"),
+    loves = c("Cats", "Learn Korean", "Hip-Hop, EDM and Metalcore",
+              "Prison Break", "Fallout4", "Tetris", "Events", "Astrology"),
     interested = c("Design", "Linguistics")
   )
 )

@@ -45,7 +45,6 @@ pietra <- list(
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pietrapaz&theme=highcontrast"></p>
   
 </div>
-
 <div align="center"><br>
   <h3> languages and tools </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="outline: none;"> 

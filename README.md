@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I'm Pietra</h1>
+<h1 align="center">Welcome to my tech world</h1>
+
+🌐 :brazil: :us: :kr:
 
 <div align="center">    
 
-  🌐 :brazil: :us: :kr:
-
-  📌 interested in Data
-
 </div>
+
+```r
+import.packages("Student")
+library("Pietra")
+
+print("Passionate about DATA and STATS")
+print("Learning Korean and Russian")
+
+pietra <- list(
+  languages = c("SQL", "Java", "JavaScript", "C", "C#"),
+  learning = c("R", "Python", "Power BI", "ETL"),
+  trajetory = list(
+    school = c("loading..."),
+    my2022 = c("Java and C# Developer student @SENAI",
+               "Training for WorldSkills, Cloud Computing @SENAI", 
+               "Computer Engineering student @UniCEUB",
+               "Beginner Russian @USP",
+               "Beginner Japanese @UniCEUB"),
+    my2023 = c("Database Administrator student @SENAC",
+               "Left Engineering"),
+    my2024 = c("Data Science student @UniCEUB",
+               "Intership @WYNK and @SENAI",
+               "Volunteer at Festival do Japao, K-Festival, Anime Summit and counting...")
+  ),
+  more = list(
+    hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames", "Volunteering in Cultural Events"),
+    loves = c("Cats", "Learn Korean", "Hip-Hop, EDM and Metalcore", "Prison Break", "Fallout4", "Tetris", "Events", "Astrology"),
+    interested = c("Design", "Linguistics")
+  )
+)
+
+```
 
 <div align="center">
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrapaz&layout=pie&langs_count=8&theme=highcontrast&size_weight=0.5&count_weight=0.5"/>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pietrapaz&theme=highcontrast"></p>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrapaz&theme=highcontrast" />
+  
 </div>
 
 <div align="center"><br>
@@ -57,11 +86,14 @@
     <img align="center" alt="youtube" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>
 </div>
 
-##
+<!--- <h3 align="center">Connect with me:</h3> 
 
+<img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrapaz&theme=highcontrast" />
+
+##
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pietrapaz" alt="pietrapaz" /></a> </p>
 
-<!--- <h3 align="center">Connect with me:</h3> 
 <p align="center">
 <a href="https://twitter.com/howanji" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="howanji" height="30" width="40" /></a>

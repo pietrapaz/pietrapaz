@@ -27,7 +27,8 @@ myself <- list(
                "Left Engineering"),
     my2024 = c("Data Science student @UniCEUB",
                "Intership @WYNK and @SENAI",
-               "Volunteer @Festival do Japao, @K-Festival, @Anime Summit and counting...")
+               "Volunteer @Festival do Japao, @K-Festival, @Anime Summit,
+               7° EnCuca @UniCEUB")
   ),
   more = list(
     hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames",

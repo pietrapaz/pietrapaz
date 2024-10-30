@@ -35,7 +35,7 @@ myself <- list(
                 "Volunteering in Cultural Events"),
     loves = c("Cats", "Learn Korean", "Hip-Hop, EDM and Metalcore",
               "Prison Break", "Fallout4", "Tetris", "Events", "Astrology"),
-    interested = c("Design", "Linguistics")
+    interested = c("Design", "Linguistics", "QA")
   )
 )
 

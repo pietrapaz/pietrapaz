@@ -15,7 +15,7 @@ print("Learning Korean and Russian")
 
 myself <- list(
   languages = c("SQL", "Java", "JavaScript", "C", "C#", "HTML", "CSS"),
-  learning = c("R", "Python", "Power BI", "ETL"),
+  learning = c("R", "Python", "Power BI", "ETL", "PHP", "Laravel"),
   trajetory = list(
     school = c("loading..."),
     my2022 = c("Java and C# Developer student @SENAI",

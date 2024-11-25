@@ -14,7 +14,7 @@ print("Passionate about DATA and STATS")
 print("Learning Korean and Russian")
 
 myself <- list(
-  languages = c("SQL", "Java", "JavaScript", "C", "C#"),
+  languages = c("SQL", "Java", "JavaScript", "C", "C#", "HTML", "CSS"),
   learning = c("R", "Python", "Power BI", "ETL"),
   trajetory = list(
     school = c("loading..."),

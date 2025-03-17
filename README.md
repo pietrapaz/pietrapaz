@@ -30,6 +30,7 @@ myself <- list(
                "Volunteer @Festival do Japao, @K-Festival, @Anime Summit,
                7° EnCUCA @UniCEUB"),
     my2025 = c("Advanced English @Amanda Onishi",
+               "Beginner Korean @CCIBK",
                "Events student @IFB")
   ),
   more = list(

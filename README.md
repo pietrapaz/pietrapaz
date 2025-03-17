@@ -28,7 +28,9 @@ myself <- list(
     my2024 = c("Data Science student @UniCEUB",
                "Intership @WYNK and @SENAI",
                "Volunteer @Festival do Japao, @K-Festival, @Anime Summit,
-               7° EnCUCA @UniCEUB")
+               7° EnCUCA @UniCEUB"),
+    my2025 = c("Advanced English @Amanda Onishi",
+               "Events student @IFB")
   ),
   more = list(
     hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames",
@@ -82,13 +84,15 @@ myself <- list(
   <h3> social </h3>
   <a href="https://www.linkedin.com/in/pietrapaz/" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="youtube" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> 
-  <a href="https://instagram.com/pietra_paz" target="_blank" rel="noreferrer" style="outline: none;">
+</div>
+
+<!--- 
+<a href="https://instagram.com/pietra_paz" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="instagram" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
   <a href="https://www.youtube.com/channel/UCHekKezp7pYrn5FIfoUWOXg" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="youtube" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>
-</div>
 
-<!--- <h3 align="center">Connect with me:</h3> 
+<h3 align="center">Connect with me:</h3> 
 
 <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pietrapaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrapaz&theme=highcontrast" />

@@ -28,7 +28,7 @@ myself <- list(
                "Intership @WYNK and @SENAI",
                "Volunteer @Festival do Japao, @K-Festival, @Anime Summit,
                7° EnCUCA @UniCEUB",
-               "Hackathon in R - 2nd Place @UniCEUB"),
+               "Hackathon in R, 2nd Place @UniCEUB"),
     my2025 = c("Advanced English @Amanda Onishi",
                "Beginner Korean @CCIBK",
                "Events student @IFB")

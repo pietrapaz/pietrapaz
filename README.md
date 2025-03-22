@@ -18,7 +18,8 @@ myself <- list(
   learning = c("R", "Python", "Power BI", "ETL", "PHP", "Laravel"),
   trajetory = list(
     school = c("loading..."),
-    my2022 = c("Java and C# Developer student @SENAI",
+    my2022 = c("Korean TOPIK2 @CECSP",
+               "Java and C# Developer student @SENAI",
                "Training for WorldSkills, Cloud Computing @SENAI", 
                "Computer Engineering student @UniCEUB",
                "Beginner Russian @USP",

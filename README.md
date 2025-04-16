@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my tech world</h1>
+
 
 🌐 :brazil: :us: :kr:
 

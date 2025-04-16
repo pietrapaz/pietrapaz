@@ -32,7 +32,9 @@ myself <- list(
                "Hackathon in R, 2nd Place @UniCEUB"),
     my2025 = c("Advanced English @Amanda Onishi",
                "Beginner Korean @CCIBK",
-               "Events student @IFB")
+               "Events student @IFB",
+               "12 Class Dio Campus Expert",
+               "Mentoring Program GitHub 4 Women")
   ),
   more = list(
     hobbies = c("Languages", "Dance", "Music", "TV Shows", "VideoGames",

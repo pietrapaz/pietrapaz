@@ -72,14 +72,22 @@ myself <- list(
     <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="outline: none;"> 
     <img align="center" alt="sqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+  
+  
 </div>
 
 <div align="center">
   <h3> learning </h3>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="outline: none;"> 
+    <img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg"></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="outline: none;"> 
+    <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="outline: none;"> 
+    <img align="center" alt="laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg"></a>
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer" style="outline: none;">
     <img align="center" alt="r" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer" style="outline: none;"> 
-  <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"></a>
+    <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"></a>
 </div>
 
 <div align="center"> 
